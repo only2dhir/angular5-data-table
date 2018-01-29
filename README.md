@@ -1,6 +1,6 @@
 # Angular5DataTable
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.The article was posted on [Devglan](http://www.devglan.com/angular/angular-data-table-example)
 
 ## Development server
 
